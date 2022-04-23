@@ -522,7 +522,7 @@ footer{
 }
 
 .bg{
-  background-image: url(media/hero/blog_hero.jpeg);
+  background-image: url(../media/hero/blog_hero.jpeg);
   margin-top: 20px;
   padding: 100px 0;
 }
@@ -754,7 +754,7 @@ footer{
 
 /* csases */
 .case-bg{
-  background-image: url(media/hero/cases_hero.jpeg);
+  background-image: url(../media/hero/cases_hero.jpeg);
   padding: 100px 0;
 }
 .marketing-box{
@@ -791,7 +791,7 @@ footer{
 /* contact */
 
 .contact-bg{
-  background-image: url(media/hero/contact_hero.jpeg);
+  background-image: url(../media/hero/contact_hero.jpeg);
   padding: 100px 0;
 }
 .alt-map{
@@ -873,7 +873,7 @@ footer{
 
 /* service */
 .service-bg{
-  background-image: url(media/hero/services_hero.jpeg);
+  background-image: url(../media/hero/services_hero.jpeg);
   padding: 100px 0;
 
 }
